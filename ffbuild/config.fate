@@ -1,0 +1,1 @@
+config:x86:x86_64:generic:linux:gcc 4.8.5 (GCC) 20150623 (Red Hat 4.8.5-16):--prefix=/usr/local/ffmpeg --enable-libfreetype --enable-libfontconfig --enable-libfribidi --enable-gpl --enable-libass --enable-libx264
